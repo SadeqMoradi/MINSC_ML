@@ -8,12 +8,19 @@ The k-nearest neighbors (KNN) algorithm is a non-parametric, supervised learning
 
 While the KNN algorithm can be used for either regression or classification problems, it is typically used as a classification algorithm, working off the assumption that similar points can be found near one another.
 # Perfromance Measurment
-Measurments have been done using the confusion matrix method. The first figure shows that all digits have a recognition accuaracy of more than 94 percent. The second figure also shows that the most errors are caused because of the model confusing 9 and 4 with each other.
-![Fig 1 : Confusion Matrix](https://github.com/SadeqMoradi/MINSC_ML_KNeighborClassifier/blob/main/Images/ConfusionMatrix1.png)
+Measurments have been done using the confusion matrix method. The figure 1 shows that all digits have a recognition accuaracy of more than 94 percent. The figure 2 also shows that the most errors are caused because of the model confusing 9 and 4 with each other.
 
 
+<p align="center">
+  <img src="https://github.com/SadeqMoradi/MINSC_ML_KNeighborClassifier/blob/main/Images/ConfusionMatrix1.png" alt="Image 1 Description" width="500">
+  <img src="https://github.com/SadeqMoradi/MINSC_ML_KNeighborClassifier/blob/main/Images/ConfusionMatrix2.png" alt="Image 2 Description" width="500">
+</p>
 
-![Fig 2 : Confusion Matrix](https://github.com/SadeqMoradi/MINSC_ML_KNeighborClassifier/blob/main/Images/ConfusionMatrix2.png)
+<p align="center">
+  <b>Fig 1 : Confusion Matrix</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Fig 2 : Confusion Matrix</b>
+</p>
+
+
 
 # Refrences
 * MNIST database - https://en.wikipedia.org/wiki/MNIST_database
